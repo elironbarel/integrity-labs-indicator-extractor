@@ -1,0 +1,286 @@
+{
+  "summary": {
+    "totalLogsProcessed": 3,
+    "totalScansAnalyzed": 46,
+    "suspiciousIndicatorsFound": 16
+  },
+  "indicators": [
+    {
+      "scanId": "4502",
+      "detectionType": "Static File Scanner",
+      "suspiciousFile": "C:\\Users\\testuser\\Downloads\\free_antivirus_setup.exe",
+      "threatName": "Trojan:Win32.Emotet",
+      "mlScore": null,
+      "sourceLogFile": "security_scan_001.log",
+      "extraDetails": {
+        "finalVerdict": "malware",
+        "triggeredRules": [
+          "Threat name detected"
+        ]
+      },
+      "classification": "true_positive",
+      "classificationReason": "Malicious indicators: strong threat name (Trojan:Win32.Emotet); malware verdict; suspicious file location"
+    },
+    {
+      "scanId": "4511",
+      "detectionType": "Static File Scanner",
+      "suspiciousFile": "C:\\Users\\testuser\\AppData\\Local\\Temp\\update_helper.dll",
+      "threatName": "Backdoor:Win32.Cobalt",
+      "mlScore": null,
+      "sourceLogFile": "security_scan_001.log",
+      "extraDetails": {
+        "finalVerdict": "malware",
+        "triggeredRules": [
+          "Threat name detected"
+        ]
+      },
+      "classification": "true_positive",
+      "classificationReason": "Malicious indicators: strong threat name (Backdoor:Win32.Cobalt); malware verdict; suspicious file location"
+    },
+    {
+      "scanId": "4521",
+      "detectionType": "Static File Scanner",
+      "suspiciousFile": "C:\\Users\\testuser\\Downloads\\cracked_software.exe",
+      "threatName": "Trojan:Win32.CrackedApp",
+      "mlScore": "0.92",
+      "sourceLogFile": "security_scan_002.log",
+      "extraDetails": {
+        "finalVerdict": "malware",
+        "mlProbability": "92%",
+        "triggeredRules": [
+          "Threat name detected",
+          "ML score > 0.75"
+        ]
+      },
+      "classification": "true_positive",
+      "classificationReason": "Malicious indicators: strong threat name (Trojan:Win32.CrackedApp); malware verdict; suspicious file location"
+    },
+    {
+      "scanId": "4523",
+      "detectionType": "Static File Scanner",
+      "suspiciousFile": "C:\\Users\\testuser\\Downloads\\video_converter.exe",
+      "threatName": "PUA:Win32.Bundler",
+      "mlScore": "0.78",
+      "sourceLogFile": "security_scan_002.log",
+      "extraDetails": {
+        "finalVerdict": "pua",
+        "mlProbability": "78%",
+        "triggeredRules": [
+          "Threat name detected",
+          "ML score > 0.75"
+        ]
+      },
+      "classification": "true_positive",
+      "classificationReason": "Malicious indicators: suspicious file location"
+    },
+    {
+      "scanId": "4531",
+      "detectionType": "Static File Scanner",
+      "suspiciousFile": "C:\\Users\\testuser\\Downloads\\browser_extension_installer.exe",
+      "threatName": "PUA:Win32.BrowserModifier",
+      "mlScore": null,
+      "sourceLogFile": "security_scan_002.log",
+      "extraDetails": {
+        "finalVerdict": "pua",
+        "triggeredRules": [
+          "Threat name detected"
+        ]
+      },
+      "classification": "true_positive",
+      "classificationReason": "Malicious indicators: suspicious file location"
+    },
+    {
+      "scanId": "4534",
+      "detectionType": "Static File Scanner",
+      "suspiciousFile": "C:\\Users\\testuser\\AppData\\Local\\Temp\\kb_hook.dll",
+      "threatName": "Spyware:Win32.Keylogger",
+      "mlScore": "0.88",
+      "sourceLogFile": "security_scan_002.log",
+      "extraDetails": {
+        "finalVerdict": "malware",
+        "mlProbability": "88%",
+        "triggeredRules": [
+          "Threat name detected",
+          "ML score > 0.75"
+        ]
+      },
+      "classification": "true_positive",
+      "classificationReason": "Malicious indicators: strong threat name (Spyware:Win32.Keylogger); malware verdict; suspicious file location"
+    },
+    {
+      "scanId": "4541",
+      "detectionType": "Static File Scanner",
+      "suspiciousFile": "C:\\Users\\testuser\\Downloads\\update_script.ps1",
+      "threatName": "Trojan:Script.PowerShellDropper",
+      "mlScore": "0.85",
+      "sourceLogFile": "security_scan_002.log",
+      "extraDetails": {
+        "finalVerdict": "malware",
+        "mlProbability": "85%",
+        "triggeredRules": [
+          "Threat name detected",
+          "ML score > 0.75"
+        ]
+      },
+      "classification": "true_positive",
+      "classificationReason": "Malicious indicators: strong threat name (Trojan:Script.PowerShellDropper); malware verdict; suspicious file location"
+    },
+    {
+      "scanId": "4542",
+      "detectionType": "Static File Scanner",
+      "suspiciousFile": "C:\\Users\\testuser\\AppData\\Roaming\\svchost32.exe",
+      "threatName": "Backdoor:Win32.RemoteAccess",
+      "mlScore": "0.91",
+      "sourceLogFile": "security_scan_002.log",
+      "extraDetails": {
+        "finalVerdict": "malware",
+        "mlProbability": "91%",
+        "triggeredRules": [
+          "Threat name detected",
+          "ML score > 0.75"
+        ]
+      },
+      "classification": "true_positive",
+      "classificationReason": "Malicious indicators: strong threat name (Backdoor:Win32.RemoteAccess); malware verdict; suspicious file location"
+    },
+    {
+      "scanId": "4545",
+      "detectionType": "Static File Scanner",
+      "suspiciousFile": "C:\\Users\\testuser\\Downloads\\gpu_benchmark.exe",
+      "threatName": "CoinMiner:Win32.CryptoMine",
+      "mlScore": "0.83",
+      "sourceLogFile": "security_scan_002.log",
+      "extraDetails": {
+        "finalVerdict": "malware",
+        "mlProbability": "83%",
+        "triggeredRules": [
+          "Threat name detected",
+          "ML score > 0.75"
+        ]
+      },
+      "classification": "true_positive",
+      "classificationReason": "Malicious indicators: strong threat name (CoinMiner:Win32.CryptoMine); malware verdict; suspicious file location"
+    },
+    {
+      "scanId": "4550",
+      "detectionType": "Static File Scanner",
+      "suspiciousFile": "C:\\Program Files\\CustomApp\\legitimate_tool.exe",
+      "threatName": "HackTool:Win32.SecurityTool",
+      "mlScore": null,
+      "sourceLogFile": "security_scan_002.log",
+      "extraDetails": {
+        "finalVerdict": "pua",
+        "signature": "ValidVendor, signed = VALID",
+        "triggeredRules": [
+          "Threat name detected"
+        ]
+      },
+      "classification": "false_positive",
+      "classificationReason": "Benign indicators: trusted system path; valid digital signature"
+    },
+    {
+      "scanId": "4551",
+      "detectionType": "Static File Scanner",
+      "suspiciousFile": "C:\\Users\\testuser\\Development\\debug_helper.exe",
+      "threatName": "HackTool:Win32.DebugTool",
+      "mlScore": null,
+      "sourceLogFile": "security_scan_002.log",
+      "extraDetails": {
+        "finalVerdict": "pua",
+        "signature": "ValidVendor, signed = VALID",
+        "triggeredRules": [
+          "Threat name detected"
+        ]
+      },
+      "classification": "uncertain",
+      "classificationReason": "Mixed signals — suspicious: suspicious file location | benign: valid digital signature"
+    },
+    {
+      "scanId": "4552",
+      "detectionType": "Static File Scanner",
+      "suspiciousFile": "C:\\Program Files\\NetworkMonitor\\netmon.exe",
+      "threatName": "HackTool:Win32.NetMonitor",
+      "mlScore": null,
+      "sourceLogFile": "security_scan_002.log",
+      "extraDetails": {
+        "finalVerdict": "pua",
+        "signature": "ValidVendor, signed = VALID",
+        "triggeredRules": [
+          "Threat name detected"
+        ]
+      },
+      "classification": "false_positive",
+      "classificationReason": "Benign indicators: trusted system path; valid digital signature"
+    },
+    {
+      "scanId": "4553",
+      "detectionType": "Static File Scanner",
+      "suspiciousFile": "C:\\Tools\\PasswordManager\\pwmgr.exe",
+      "threatName": "HackTool:Win32.PasswordTool",
+      "mlScore": null,
+      "sourceLogFile": "security_scan_002.log",
+      "extraDetails": {
+        "finalVerdict": "pua",
+        "signature": "ValidVendor, signed = VALID",
+        "triggeredRules": [
+          "Threat name detected"
+        ]
+      },
+      "classification": "false_positive",
+      "classificationReason": "Benign indicators: valid digital signature"
+    },
+    {
+      "scanId": "4560",
+      "detectionType": "Static File Scanner",
+      "suspiciousFile": "C:\\Users\\testuser\\Downloads\\invoice_doc.exe",
+      "threatName": "Ransom:Win32.Cryptor",
+      "mlScore": "0.95",
+      "sourceLogFile": "security_scan_002.log",
+      "extraDetails": {
+        "finalVerdict": "malware",
+        "mlProbability": "95%",
+        "triggeredRules": [
+          "Threat name detected",
+          "ML score > 0.75"
+        ]
+      },
+      "classification": "true_positive",
+      "classificationReason": "Malicious indicators: malware verdict; suspicious file location"
+    },
+    {
+      "scanId": "4564",
+      "detectionType": "Static File Scanner",
+      "suspiciousFile": "C:\\Users\\testuser\\AppData\\Local\\Temp\\browser_update.exe",
+      "threatName": "Trojan:Win32.InfoStealer",
+      "mlScore": "0.89",
+      "sourceLogFile": "security_scan_002.log",
+      "extraDetails": {
+        "finalVerdict": "malware",
+        "mlProbability": "89%",
+        "triggeredRules": [
+          "Threat name detected",
+          "ML score > 0.75"
+        ]
+      },
+      "classification": "true_positive",
+      "classificationReason": "Malicious indicators: strong threat name (Trojan:Win32.InfoStealer); malware verdict; suspicious file location"
+    },
+    {
+      "scanId": "4599",
+      "detectionType": "Behavioral Engine",
+      "suspiciousFile": "C:\\Users\\testuser\\Desktop\\dropper.exe",
+      "threatName": "Trojan:Win32.Dropper",
+      "mlScore": null,
+      "sourceLogFile": "security_scan_003.log",
+      "extraDetails": {
+        "behavioralThreat": "Trojan:Win32.Dropper",
+        "triggeredRules": [
+          "Threat name detected",
+          "Behavioral threat detected"
+        ]
+      },
+      "classification": "true_positive",
+      "classificationReason": "Malicious indicators: strong threat name (Trojan:Win32.Dropper); behavioral detection (Trojan:Win32.Dropper); suspicious file location"
+    }
+  ]
+}

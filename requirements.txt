@@ -1,0 +1,5 @@
+# No third-party dependencies required for the core implementation.
+# Add any libraries here if needed (e.g., pytest for testing).
+
+# Testing (optional)
+# pytest>=8.0

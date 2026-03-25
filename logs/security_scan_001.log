@@ -1,0 +1,2000 @@
+[20260103-101500-534][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101500-258][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101500-773][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101500-529][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101500-245][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101500-537][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101500-570][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101500-777][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101500-123][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101500-165][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101500-553][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101500-621][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101500-167][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101500-624][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101500-385][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101500-651][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101500-946][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101500-975][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101500-681][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101500-545][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101500-205][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101500-732][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101500-217][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101500-046][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101500-312][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101500-642][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101500-004][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101500-819][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101500-557][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101500-870][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101500-641][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101500-133][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101500-106][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101500-699][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101500-041][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101500-543][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101500-191][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101500-670][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101500-206][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101500-901][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101500-870][T][AVC] (6444) AvcScanEvent: scanMode = exec, path = "C:\Windows\System32\conhost.exe", scanContextId = 4500, processUniqueID = 34617436416300, isNativeExecutable = true
+[20260103-101500-872][T][AVC] (6444) (OEX:4500:2): No engine verdicts to retrieve; will recalculate all engines... (driver:11:not found)
+[20260103-101500-873][T][AVC] (6444) (OEX:4500:2): Scan stages AVC setup: Stage 0: Static File Scanner, Malware Hash List; Stage 1: Trusted Hash, Signature Verifier;
+[20260103-101500-875][T][AVC] (6444) [AVS] (6444) Scanning buffer via OEX with scanId = 4500
+[20260103-101500-876][T][AVC] (6444) [AVS] (6444) Scan context for scanId = 4500 created successfully.
+[20260103-101500-878][T][AVC] (6444) [AVS] (6444) Scan ID 4500 timer started for 5 seconds
+[20260103-101500-879][T][AVC] (6444) [AVS] (6444) Scan ID 4500 starting pipeline scan. Total number of stages: 3
+[20260103-101500-881][T][AVC] (6444) [AVS] (6444) Scan ID 4500 is starting stage 0 with verdictors: malware-hash-list, static-file-scanner
+[20260103-101500-884][T][AVC] (13176) [AVS] (13176) Thread pool task ID 0 started for Scan ID 4500
+[20260103-101500-885][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Scanning scan ID 4500
+[20260103-101500-887][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 started for Scan ID 4500
+[20260103-101500-888][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Finished scanning scan ID 4500, scan error: ok, verdict: unknown
+[20260103-101500-890][T][AVC] (7680) [AVS] (7680) [SFS Verdictor] Scanning scan ID 4500
+[20260103-101500-895][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4500] Start scanning: C:\Windows\System32\conhost.exe
+[20260103-101500-898][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4500] C:\Windows\System32\conhost.exe	signed	
+[20260103-101500-908][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4500] Finish scanning: C:\Windows\System32\conhost.exe, final verdict: unknown
+[20260103-101500-910][T][AVC] (7680) [AVS] (7680) [Static File Scanner] Scan ID 4500 received result callback 1. Result type: ML. Model type: PE model. Score: 0.031. Threat name: NULL. Silent: 0
+[20260103-101500-913][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 ended for Scan ID 4500
+[20260103-101500-915][T][AVC] (6444) [AVS] (6444) Scan ID 4500 has completed stage 0 with 2 tasks: 0, 1
+[20260103-101500-916][T][AVC] (6444) [AVS] (6444) Scan ID 4500 has completed the pipeline scan
+[20260103-101500-918][T][AVC] (6444) [AVS] (6444) Final verdict for scan ID 4500, Error: ok, Verdict: unknown
+[20260103-101500-919][T][AVC] (6444) AVS scan completed scan id 4500
+[20260103-101500-921][T][AVC] (6444) (OEX:4500:2): Caching verdict=0 TTL=86400 ScanDepth=3 for engineId=16
+[20260103-101500-922][T][AVC] (6444) (OEX:4500:2): AVS verdict is 'unknown'
+[20260103-101500-924][T][AVC] (6444) Finished (OEX:4500:2) with final verdict = unknown
+[20260103-101502-552][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101502-934][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101502-616][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101502-113][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101502-315][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101502-371][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101502-938][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101502-163][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101502-102][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101502-782][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101502-715][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101502-487][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101502-148][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101502-564][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101502-963][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101502-685][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101502-334][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101502-355][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101502-885][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101502-362][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101502-423][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101502-220][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101502-137][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101502-874][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101502-387][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101502-578][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101502-372][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101502-960][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101502-737][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101502-707][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101502-662][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101502-684][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101502-834][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101502-703][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101502-155][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101502-694][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101502-029][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101502-699][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101502-924][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101502-091][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101502-178][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101502-498][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101502-124][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101502-827][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101502-226][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101502-232][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101502-052][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101502-455][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101502-377][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101502-559][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101502-554][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101502-102][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101502-729][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101502-915][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101502-364][T][AVC] (6444) AvcScanEvent: scanMode = exec, path = "C:\Windows\System32\svchost.exe", scanContextId = 4501, processUniqueID = 34617436416300, isNativeExecutable = true
+[20260103-101502-366][T][AVC] (6444) (OEX:4501:2): No engine verdicts to retrieve; will recalculate all engines... (driver:11:not found)
+[20260103-101502-367][T][AVC] (6444) (OEX:4501:2): Scan stages AVC setup: Stage 0: Static File Scanner, Malware Hash List; Stage 1: Trusted Hash, Signature Verifier;
+[20260103-101502-369][T][AVC] (6444) [AVS] (6444) Scanning buffer via OEX with scanId = 4501
+[20260103-101502-370][T][AVC] (6444) [AVS] (6444) Scan context for scanId = 4501 created successfully.
+[20260103-101502-372][T][AVC] (6444) [AVS] (6444) Scan ID 4501 timer started for 5 seconds
+[20260103-101502-373][T][AVC] (6444) [AVS] (6444) Scan ID 4501 starting pipeline scan. Total number of stages: 3
+[20260103-101502-375][T][AVC] (6444) [AVS] (6444) Scan ID 4501 is starting stage 0 with verdictors: malware-hash-list, static-file-scanner
+[20260103-101502-378][T][AVC] (13176) [AVS] (13176) Thread pool task ID 0 started for Scan ID 4501
+[20260103-101502-379][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Scanning scan ID 4501
+[20260103-101502-381][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 started for Scan ID 4501
+[20260103-101502-382][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Finished scanning scan ID 4501, scan error: ok, verdict: unknown
+[20260103-101502-384][T][AVC] (7680) [AVS] (7680) [SFS Verdictor] Scanning scan ID 4501
+[20260103-101502-389][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4501] Start scanning: C:\Windows\System32\svchost.exe
+[20260103-101502-392][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4501] C:\Windows\System32\svchost.exe	signed	
+[20260103-101502-402][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4501] Finish scanning: C:\Windows\System32\svchost.exe, final verdict: unknown
+[20260103-101502-404][T][AVC] (7680) [AVS] (7680) [Static File Scanner] Scan ID 4501 received result callback 1. Result type: ML. Model type: PE model. Score: 0.099. Threat name: NULL. Silent: 0
+[20260103-101502-407][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 ended for Scan ID 4501
+[20260103-101502-409][T][AVC] (6444) [AVS] (6444) Scan ID 4501 has completed stage 0 with 2 tasks: 0, 1
+[20260103-101502-410][T][AVC] (6444) [AVS] (6444) Scan ID 4501 has completed the pipeline scan
+[20260103-101502-412][T][AVC] (6444) [AVS] (6444) Final verdict for scan ID 4501, Error: ok, Verdict: unknown
+[20260103-101502-413][T][AVC] (6444) AVS scan completed scan id 4501
+[20260103-101502-415][T][AVC] (6444) (OEX:4501:2): Caching verdict=0 TTL=86400 ScanDepth=3 for engineId=16
+[20260103-101502-416][T][AVC] (6444) (OEX:4501:2): AVS verdict is 'unknown'
+[20260103-101502-418][T][AVC] (6444) Finished (OEX:4501:2) with final verdict = unknown
+[20260103-101504-428][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101504-430][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101504-682][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101504-634][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101504-691][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101504-522][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101504-443][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101504-687][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101504-093][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101504-090][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101504-971][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101504-187][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101504-389][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101504-857][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101504-341][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101504-354][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101504-824][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101504-236][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101504-320][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101504-614][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101504-379][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101504-018][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101504-451][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101504-661][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101504-373][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101504-479][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101504-854][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101504-846][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101504-164][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101504-051][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101504-867][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101504-630][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101504-316][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101504-125][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101504-743][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101504-051][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101504-851][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101504-666][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101504-914][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101504-776][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101504-163][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101504-576][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101504-745][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101504-356][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101504-496][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101504-702][T][AVC] (6444) AvcScanEvent: scanMode = exec, path = "C:\Users\testuser\Downloads\free_antivirus_setup.exe", scanContextId = 4502, processUniqueID = 34617436416300, isNativeExecutable = true
+[20260103-101504-704][T][AVC] (6444) (OEX:4502:2): No engine verdicts to retrieve; will recalculate all engines... (driver:11:not found)
+[20260103-101504-705][T][AVC] (6444) (OEX:4502:2): Scan stages AVC setup: Stage 0: Static File Scanner, Malware Hash List; Stage 1: Trusted Hash, Signature Verifier;
+[20260103-101504-707][T][AVC] (6444) [AVS] (6444) Scanning buffer via OEX with scanId = 4502
+[20260103-101504-708][T][AVC] (6444) [AVS] (6444) Scan context for scanId = 4502 created successfully.
+[20260103-101504-710][T][AVC] (6444) [AVS] (6444) Scan ID 4502 timer started for 5 seconds
+[20260103-101504-711][T][AVC] (6444) [AVS] (6444) Scan ID 4502 starting pipeline scan. Total number of stages: 3
+[20260103-101504-713][T][AVC] (6444) [AVS] (6444) Scan ID 4502 is starting stage 0 with verdictors: malware-hash-list, static-file-scanner
+[20260103-101504-716][T][AVC] (13176) [AVS] (13176) Thread pool task ID 0 started for Scan ID 4502
+[20260103-101504-717][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Scanning scan ID 4502
+[20260103-101504-719][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 started for Scan ID 4502
+[20260103-101504-720][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Finished scanning scan ID 4502, scan error: ok, verdict: unknown
+[20260103-101504-722][T][AVC] (7680) [AVS] (7680) [SFS Verdictor] Scanning scan ID 4502
+[20260103-101504-727][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4502] Start scanning: C:\Users\testuser\Downloads\free_antivirus_setup.exe
+[20260103-101504-730][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4502] C:\Users\testuser\Downloads\free_antivirus_setup.exe	signed	
+[20260103-101504-735][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4502] [YARA-LOG] SFS:Trojan.Generic.Emotet
+[20260103-101504-745][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4502] Finish scanning: C:\Users\testuser\Downloads\free_antivirus_setup.exe, final verdict: malware
+[20260103-101504-747][T][AVC] (7680) [AVS] (7680) [Static File Scanner] Scan ID 4502 received result callback 1. Result type: ML. Model type: PE model. Score: 0.89. Threat name: Trojan:Win32.Emotet. Silent: 0
+[20260103-101504-750][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 ended for Scan ID 4502
+[20260103-101504-752][T][AVC] (6444) [AVS] (6444) Scan ID 4502 has completed stage 0 with 2 tasks: 0, 1
+[20260103-101504-753][T][AVC] (6444) [AVS] (6444) Scan ID 4502 has completed the pipeline scan
+[20260103-101504-755][T][AVC] (6444) [AVS] (6444) Final verdict for scan ID 4502, Error: ok, Verdict: malware
+[20260103-101504-756][T][AVC] (6444) AVS scan completed scan id 4502
+[20260103-101504-758][T][AVC] (6444) (OEX:4502:2): Caching verdict=0 TTL=86400 ScanDepth=3 for engineId=16
+[20260103-101504-759][T][AVC] (6444) (OEX:4502:2): AVS verdict is 'malware'
+[20260103-101504-761][T][AVC] (6444) Finished (OEX:4502:2) with final verdict = malware
+[20260103-101506-524][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101506-962][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101506-690][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101506-981][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101506-933][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101506-100][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101506-129][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101506-242][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101506-162][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101506-849][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101506-700][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101506-473][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101506-843][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101506-955][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101506-732][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101506-397][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101506-246][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101506-881][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101506-786][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101506-181][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101506-100][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101506-255][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101506-770][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101506-447][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101506-694][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101506-892][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101506-315][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101506-816][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101506-969][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101506-958][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101506-972][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101506-793][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101506-952][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101506-875][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101506-031][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101506-449][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101506-398][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101506-387][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101506-608][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101506-292][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101506-043][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101506-184][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101506-593][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101506-903][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101506-284][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101506-328][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101506-505][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101506-744][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101506-236][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101506-762][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101506-092][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101506-764][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101506-006][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101506-546][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101506-263][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101506-070][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101506-810][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101506-219][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101506-428][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101506-306][T][AVC] (6444) AvcScanEvent: scanMode = exec, path = "C:\Windows\System32\notepad.exe", scanContextId = 4503, processUniqueID = 34617436416300, isNativeExecutable = true
+[20260103-101506-308][T][AVC] (6444) (OEX:4503:2): No engine verdicts to retrieve; will recalculate all engines... (driver:11:not found)
+[20260103-101506-309][T][AVC] (6444) (OEX:4503:2): Scan stages AVC setup: Stage 0: Static File Scanner, Malware Hash List; Stage 1: Trusted Hash, Signature Verifier;
+[20260103-101506-311][T][AVC] (6444) [AVS] (6444) Scanning buffer via OEX with scanId = 4503
+[20260103-101506-312][T][AVC] (6444) [AVS] (6444) Scan context for scanId = 4503 created successfully.
+[20260103-101506-314][T][AVC] (6444) [AVS] (6444) Scan ID 4503 timer started for 5 seconds
+[20260103-101506-315][T][AVC] (6444) [AVS] (6444) Scan ID 4503 starting pipeline scan. Total number of stages: 3
+[20260103-101506-317][T][AVC] (6444) [AVS] (6444) Scan ID 4503 is starting stage 0 with verdictors: malware-hash-list, static-file-scanner
+[20260103-101506-320][T][AVC] (13176) [AVS] (13176) Thread pool task ID 0 started for Scan ID 4503
+[20260103-101506-321][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Scanning scan ID 4503
+[20260103-101506-323][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 started for Scan ID 4503
+[20260103-101506-324][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Finished scanning scan ID 4503, scan error: ok, verdict: unknown
+[20260103-101506-326][T][AVC] (7680) [AVS] (7680) [SFS Verdictor] Scanning scan ID 4503
+[20260103-101506-331][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4503] Start scanning: C:\Windows\System32\notepad.exe
+[20260103-101506-334][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4503] C:\Windows\System32\notepad.exe	signed	
+[20260103-101506-344][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4503] Finish scanning: C:\Windows\System32\notepad.exe, final verdict: unknown
+[20260103-101506-346][T][AVC] (7680) [AVS] (7680) [Static File Scanner] Scan ID 4503 received result callback 1. Result type: ML. Model type: PE model. Score: 0.0205. Threat name: NULL. Silent: 0
+[20260103-101506-349][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 ended for Scan ID 4503
+[20260103-101506-351][T][AVC] (6444) [AVS] (6444) Scan ID 4503 has completed stage 0 with 2 tasks: 0, 1
+[20260103-101506-352][T][AVC] (6444) [AVS] (6444) Scan ID 4503 has completed the pipeline scan
+[20260103-101506-354][T][AVC] (6444) [AVS] (6444) Final verdict for scan ID 4503, Error: ok, Verdict: unknown
+[20260103-101506-355][T][AVC] (6444) AVS scan completed scan id 4503
+[20260103-101506-357][T][AVC] (6444) (OEX:4503:2): Caching verdict=0 TTL=86400 ScanDepth=3 for engineId=16
+[20260103-101506-358][T][AVC] (6444) (OEX:4503:2): AVS verdict is 'unknown'
+[20260103-101506-360][T][AVC] (6444) Finished (OEX:4503:2) with final verdict = unknown
+[20260103-101508-072][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101508-573][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101508-503][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101508-242][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101508-054][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101508-660][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101508-321][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101508-066][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101508-124][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101508-478][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101508-561][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101508-117][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101508-670][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101508-259][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101508-415][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101508-423][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101508-107][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101508-864][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101508-319][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101508-796][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101508-337][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101508-152][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101508-269][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101508-667][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101508-603][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101508-275][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101508-783][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101508-874][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101508-526][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101508-954][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101508-799][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101508-528][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101508-881][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101508-764][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101508-617][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101508-130][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101508-596][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101508-676][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101508-928][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101508-637][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101508-850][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101508-827][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101508-094][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101508-194][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101508-547][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101508-606][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101508-787][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101508-471][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101508-518][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101508-363][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101508-484][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101508-713][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101508-563][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101508-778][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101508-637][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101508-594][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101508-863][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101508-028][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101508-599][T][AVC] (6444) AvcScanEvent: scanMode = exec, path = "C:\Program Files\Microsoft VS Code\Code.exe", scanContextId = 4504, processUniqueID = 34617436416300, isNativeExecutable = true
+[20260103-101508-601][T][AVC] (6444) (OEX:4504:2): No engine verdicts to retrieve; will recalculate all engines... (driver:11:not found)
+[20260103-101508-602][T][AVC] (6444) (OEX:4504:2): Scan stages AVC setup: Stage 0: Static File Scanner, Malware Hash List; Stage 1: Trusted Hash, Signature Verifier;
+[20260103-101508-604][T][AVC] (6444) [AVS] (6444) Scanning buffer via OEX with scanId = 4504
+[20260103-101508-605][T][AVC] (6444) [AVS] (6444) Scan context for scanId = 4504 created successfully.
+[20260103-101508-607][T][AVC] (6444) [AVS] (6444) Scan ID 4504 timer started for 5 seconds
+[20260103-101508-608][T][AVC] (6444) [AVS] (6444) Scan ID 4504 starting pipeline scan. Total number of stages: 3
+[20260103-101508-610][T][AVC] (6444) [AVS] (6444) Scan ID 4504 is starting stage 0 with verdictors: malware-hash-list, static-file-scanner
+[20260103-101508-613][T][AVC] (13176) [AVS] (13176) Thread pool task ID 0 started for Scan ID 4504
+[20260103-101508-614][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Scanning scan ID 4504
+[20260103-101508-616][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 started for Scan ID 4504
+[20260103-101508-617][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Finished scanning scan ID 4504, scan error: ok, verdict: unknown
+[20260103-101508-619][T][AVC] (7680) [AVS] (7680) [SFS Verdictor] Scanning scan ID 4504
+[20260103-101508-624][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4504] Start scanning: C:\Program Files\Microsoft VS Code\Code.exe
+[20260103-101508-627][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4504] C:\Program Files\Microsoft VS Code\Code.exe	signed	
+[20260103-101508-637][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4504] Finish scanning: C:\Program Files\Microsoft VS Code\Code.exe, final verdict: unknown
+[20260103-101508-639][T][AVC] (7680) [AVS] (7680) [Static File Scanner] Scan ID 4504 received result callback 1. Result type: ML. Model type: PE model. Score: 0.0201. Threat name: NULL. Silent: 0
+[20260103-101508-642][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 ended for Scan ID 4504
+[20260103-101508-644][T][AVC] (6444) [AVS] (6444) Scan ID 4504 has completed stage 0 with 2 tasks: 0, 1
+[20260103-101508-645][T][AVC] (6444) [AVS] (6444) Scan ID 4504 has completed the pipeline scan
+[20260103-101508-647][T][AVC] (6444) [AVS] (6444) Final verdict for scan ID 4504, Error: ok, Verdict: unknown
+[20260103-101508-648][T][AVC] (6444) AVS scan completed scan id 4504
+[20260103-101508-650][T][AVC] (6444) (OEX:4504:2): Caching verdict=0 TTL=86400 ScanDepth=3 for engineId=16
+[20260103-101508-651][T][AVC] (6444) (OEX:4504:2): AVS verdict is 'unknown'
+[20260103-101508-653][T][AVC] (6444) Finished (OEX:4504:2) with final verdict = unknown
+[20260103-101510-190][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101510-844][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101510-306][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101510-275][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101510-621][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101510-653][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101510-608][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101510-001][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101510-243][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101510-061][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101510-034][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101510-676][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101510-972][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101510-490][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101510-478][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101510-898][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101510-204][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101510-147][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101510-932][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101510-395][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101510-278][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101510-151][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101510-283][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101510-075][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101510-250][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101510-457][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101510-039][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101510-885][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101510-305][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101510-914][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101510-056][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101510-273][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101510-659][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101510-523][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101510-234][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101510-736][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101510-493][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101510-922][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101510-659][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101510-010][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101510-563][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101510-438][T][AVC] (6444) AvcScanEvent: scanMode = exec, path = "C:\Windows\System32\gdi32.dll", scanContextId = 4505, processUniqueID = 34617436416300, isNativeExecutable = true
+[20260103-101510-440][T][AVC] (6444) (OEX:4505:2): No engine verdicts to retrieve; will recalculate all engines... (driver:11:not found)
+[20260103-101510-441][T][AVC] (6444) (OEX:4505:2): Scan stages AVC setup: Stage 0: Static File Scanner, Malware Hash List; Stage 1: Trusted Hash, Signature Verifier;
+[20260103-101510-443][T][AVC] (6444) [AVS] (6444) Scanning buffer via OEX with scanId = 4505
+[20260103-101510-444][T][AVC] (6444) [AVS] (6444) Scan context for scanId = 4505 created successfully.
+[20260103-101510-446][T][AVC] (6444) [AVS] (6444) Scan ID 4505 timer started for 5 seconds
+[20260103-101510-447][T][AVC] (6444) [AVS] (6444) Scan ID 4505 starting pipeline scan. Total number of stages: 3
+[20260103-101510-449][T][AVC] (6444) [AVS] (6444) Scan ID 4505 is starting stage 0 with verdictors: malware-hash-list, static-file-scanner
+[20260103-101510-452][T][AVC] (13176) [AVS] (13176) Thread pool task ID 0 started for Scan ID 4505
+[20260103-101510-453][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Scanning scan ID 4505
+[20260103-101510-455][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 started for Scan ID 4505
+[20260103-101510-456][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Finished scanning scan ID 4505, scan error: ok, verdict: unknown
+[20260103-101510-458][T][AVC] (7680) [AVS] (7680) [SFS Verdictor] Scanning scan ID 4505
+[20260103-101510-463][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4505] Start scanning: C:\Windows\System32\gdi32.dll
+[20260103-101510-466][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4505] C:\Windows\System32\gdi32.dll	signed	
+[20260103-101510-476][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4505] Finish scanning: C:\Windows\System32\gdi32.dll, final verdict: unknown
+[20260103-101510-478][T][AVC] (7680) [AVS] (7680) [Static File Scanner] Scan ID 4505 received result callback 1. Result type: ML. Model type: PE model. Score: 0.0358. Threat name: NULL. Silent: 0
+[20260103-101510-481][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 ended for Scan ID 4505
+[20260103-101510-483][T][AVC] (6444) [AVS] (6444) Scan ID 4505 has completed stage 0 with 2 tasks: 0, 1
+[20260103-101510-484][T][AVC] (6444) [AVS] (6444) Scan ID 4505 has completed the pipeline scan
+[20260103-101510-486][T][AVC] (6444) [AVS] (6444) Final verdict for scan ID 4505, Error: ok, Verdict: unknown
+[20260103-101510-487][T][AVC] (6444) AVS scan completed scan id 4505
+[20260103-101510-489][T][AVC] (6444) (OEX:4505:2): Caching verdict=0 TTL=86400 ScanDepth=3 for engineId=16
+[20260103-101510-490][T][AVC] (6444) (OEX:4505:2): AVS verdict is 'unknown'
+[20260103-101510-492][T][AVC] (6444) Finished (OEX:4505:2) with final verdict = unknown
+[20260103-101512-876][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101512-572][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101512-753][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101512-282][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101512-690][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101512-731][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101512-165][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101512-279][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101512-835][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101512-730][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101512-293][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101512-252][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101512-711][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101512-514][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101512-319][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101512-229][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101512-922][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101512-337][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101512-301][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101512-629][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101512-968][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101512-762][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101512-860][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101512-206][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101512-221][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101512-266][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101512-130][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101512-777][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101512-080][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101512-356][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101512-391][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101512-173][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101512-940][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101512-259][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101512-648][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101512-737][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101512-809][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101512-752][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101512-422][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101512-502][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101512-355][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101512-005][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101512-380][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101512-158][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101512-075][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101512-484][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101512-465][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101512-010][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101512-350][T][AVC] (6444) AvcScanEvent: scanMode = exec, path = "C:\Program Files\Mozilla Firefox\firefox.exe", scanContextId = 4506, processUniqueID = 34617436416300, isNativeExecutable = true
+[20260103-101512-352][T][AVC] (6444) (OEX:4506:2): No engine verdicts to retrieve; will recalculate all engines... (driver:11:not found)
+[20260103-101512-353][T][AVC] (6444) (OEX:4506:2): Scan stages AVC setup: Stage 0: Static File Scanner, Malware Hash List; Stage 1: Trusted Hash, Signature Verifier;
+[20260103-101512-355][T][AVC] (6444) [AVS] (6444) Scanning buffer via OEX with scanId = 4506
+[20260103-101512-356][T][AVC] (6444) [AVS] (6444) Scan context for scanId = 4506 created successfully.
+[20260103-101512-358][T][AVC] (6444) [AVS] (6444) Scan ID 4506 timer started for 5 seconds
+[20260103-101512-359][T][AVC] (6444) [AVS] (6444) Scan ID 4506 starting pipeline scan. Total number of stages: 3
+[20260103-101512-361][T][AVC] (6444) [AVS] (6444) Scan ID 4506 is starting stage 0 with verdictors: malware-hash-list, static-file-scanner
+[20260103-101512-364][T][AVC] (13176) [AVS] (13176) Thread pool task ID 0 started for Scan ID 4506
+[20260103-101512-365][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Scanning scan ID 4506
+[20260103-101512-367][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 started for Scan ID 4506
+[20260103-101512-368][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Finished scanning scan ID 4506, scan error: ok, verdict: unknown
+[20260103-101512-370][T][AVC] (7680) [AVS] (7680) [SFS Verdictor] Scanning scan ID 4506
+[20260103-101512-375][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4506] Start scanning: C:\Program Files\Mozilla Firefox\firefox.exe
+[20260103-101512-378][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4506] C:\Program Files\Mozilla Firefox\firefox.exe	signed	
+[20260103-101512-388][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4506] Finish scanning: C:\Program Files\Mozilla Firefox\firefox.exe, final verdict: unknown
+[20260103-101512-390][T][AVC] (7680) [AVS] (7680) [Static File Scanner] Scan ID 4506 received result callback 1. Result type: ML. Model type: PE model. Score: 0.0168. Threat name: NULL. Silent: 0
+[20260103-101512-393][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 ended for Scan ID 4506
+[20260103-101512-395][T][AVC] (6444) [AVS] (6444) Scan ID 4506 has completed stage 0 with 2 tasks: 0, 1
+[20260103-101512-396][T][AVC] (6444) [AVS] (6444) Scan ID 4506 has completed the pipeline scan
+[20260103-101512-398][T][AVC] (6444) [AVS] (6444) Final verdict for scan ID 4506, Error: ok, Verdict: unknown
+[20260103-101512-399][T][AVC] (6444) AVS scan completed scan id 4506
+[20260103-101512-401][T][AVC] (6444) (OEX:4506:2): Caching verdict=0 TTL=86400 ScanDepth=3 for engineId=16
+[20260103-101512-402][T][AVC] (6444) (OEX:4506:2): AVS verdict is 'unknown'
+[20260103-101512-404][T][AVC] (6444) Finished (OEX:4506:2) with final verdict = unknown
+[20260103-101514-733][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101514-285][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101514-679][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101514-756][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101514-638][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101514-428][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101514-807][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101514-608][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101514-117][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101514-422][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101514-040][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101514-791][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101514-307][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101514-263][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101514-043][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101514-957][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101514-099][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101514-586][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101514-314][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101514-564][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101514-979][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101514-140][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101514-391][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101514-513][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101514-813][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101514-659][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101514-246][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101514-154][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101514-372][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101514-298][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101514-413][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101514-296][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101514-394][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101514-178][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101514-917][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101514-789][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101514-635][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101514-240][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101514-408][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101514-324][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101514-607][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101514-176][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101514-671][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101514-551][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101514-966][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101514-936][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101514-511][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101514-221][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101514-499][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101514-827][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101514-260][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101514-756][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101514-988][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101514-612][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101514-868][T][AVC] (6444) AvcScanEvent: scanMode = exec, path = "C:\Windows\System32\advapi32.dll", scanContextId = 4507, processUniqueID = 34617436416300, isNativeExecutable = true
+[20260103-101514-870][T][AVC] (6444) (OEX:4507:2): No engine verdicts to retrieve; will recalculate all engines... (driver:11:not found)
+[20260103-101514-871][T][AVC] (6444) (OEX:4507:2): Scan stages AVC setup: Stage 0: Static File Scanner, Malware Hash List; Stage 1: Trusted Hash, Signature Verifier;
+[20260103-101514-873][T][AVC] (6444) [AVS] (6444) Scanning buffer via OEX with scanId = 4507
+[20260103-101514-874][T][AVC] (6444) [AVS] (6444) Scan context for scanId = 4507 created successfully.
+[20260103-101514-876][T][AVC] (6444) [AVS] (6444) Scan ID 4507 timer started for 5 seconds
+[20260103-101514-877][T][AVC] (6444) [AVS] (6444) Scan ID 4507 starting pipeline scan. Total number of stages: 3
+[20260103-101514-879][T][AVC] (6444) [AVS] (6444) Scan ID 4507 is starting stage 0 with verdictors: malware-hash-list, static-file-scanner
+[20260103-101514-882][T][AVC] (13176) [AVS] (13176) Thread pool task ID 0 started for Scan ID 4507
+[20260103-101514-883][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Scanning scan ID 4507
+[20260103-101514-885][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 started for Scan ID 4507
+[20260103-101514-886][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Finished scanning scan ID 4507, scan error: ok, verdict: unknown
+[20260103-101514-888][T][AVC] (7680) [AVS] (7680) [SFS Verdictor] Scanning scan ID 4507
+[20260103-101514-893][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4507] Start scanning: C:\Windows\System32\advapi32.dll
+[20260103-101514-896][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4507] C:\Windows\System32\advapi32.dll	signed	
+[20260103-101514-906][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4507] Finish scanning: C:\Windows\System32\advapi32.dll, final verdict: unknown
+[20260103-101514-908][T][AVC] (7680) [AVS] (7680) [Static File Scanner] Scan ID 4507 received result callback 1. Result type: ML. Model type: PE model. Score: 0.0633. Threat name: NULL. Silent: 0
+[20260103-101514-911][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 ended for Scan ID 4507
+[20260103-101514-913][T][AVC] (6444) [AVS] (6444) Scan ID 4507 has completed stage 0 with 2 tasks: 0, 1
+[20260103-101514-914][T][AVC] (6444) [AVS] (6444) Scan ID 4507 has completed the pipeline scan
+[20260103-101514-916][T][AVC] (6444) [AVS] (6444) Final verdict for scan ID 4507, Error: ok, Verdict: unknown
+[20260103-101514-917][T][AVC] (6444) AVS scan completed scan id 4507
+[20260103-101514-919][T][AVC] (6444) (OEX:4507:2): Caching verdict=0 TTL=86400 ScanDepth=3 for engineId=16
+[20260103-101514-920][T][AVC] (6444) (OEX:4507:2): AVS verdict is 'unknown'
+[20260103-101514-922][T][AVC] (6444) Finished (OEX:4507:2) with final verdict = unknown
+[20260103-101516-174][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101516-949][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101516-445][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101516-617][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101516-299][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101516-278][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101516-568][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101516-224][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101516-148][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101516-181][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101516-326][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101516-515][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101516-298][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101516-553][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101516-554][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101516-377][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101516-695][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101516-454][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101516-037][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101516-452][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101516-138][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101516-188][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101516-609][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101516-235][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101516-492][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101516-762][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101516-373][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101516-147][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101516-796][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101516-559][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101516-890][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101516-391][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101516-607][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101516-229][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101516-878][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101516-957][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101516-384][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101516-787][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101516-720][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101516-443][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101516-977][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101516-790][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101516-651][T][AVC] (6444) AvcScanEvent: scanMode = exec, path = "C:\Windows\System32\user32.dll", scanContextId = 4508, processUniqueID = 34617436416300, isNativeExecutable = true
+[20260103-101516-653][T][AVC] (6444) (OEX:4508:2): No engine verdicts to retrieve; will recalculate all engines... (driver:11:not found)
+[20260103-101516-654][T][AVC] (6444) (OEX:4508:2): Scan stages AVC setup: Stage 0: Static File Scanner, Malware Hash List; Stage 1: Trusted Hash, Signature Verifier;
+[20260103-101516-656][T][AVC] (6444) [AVS] (6444) Scanning buffer via OEX with scanId = 4508
+[20260103-101516-657][T][AVC] (6444) [AVS] (6444) Scan context for scanId = 4508 created successfully.
+[20260103-101516-659][T][AVC] (6444) [AVS] (6444) Scan ID 4508 timer started for 5 seconds
+[20260103-101516-660][T][AVC] (6444) [AVS] (6444) Scan ID 4508 starting pipeline scan. Total number of stages: 3
+[20260103-101516-662][T][AVC] (6444) [AVS] (6444) Scan ID 4508 is starting stage 0 with verdictors: malware-hash-list, static-file-scanner
+[20260103-101516-665][T][AVC] (13176) [AVS] (13176) Thread pool task ID 0 started for Scan ID 4508
+[20260103-101516-666][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Scanning scan ID 4508
+[20260103-101516-668][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 started for Scan ID 4508
+[20260103-101516-669][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Finished scanning scan ID 4508, scan error: ok, verdict: unknown
+[20260103-101516-671][T][AVC] (7680) [AVS] (7680) [SFS Verdictor] Scanning scan ID 4508
+[20260103-101516-676][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4508] Start scanning: C:\Windows\System32\user32.dll
+[20260103-101516-679][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4508] C:\Windows\System32\user32.dll	signed	
+[20260103-101516-689][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4508] Finish scanning: C:\Windows\System32\user32.dll, final verdict: unknown
+[20260103-101516-691][T][AVC] (7680) [AVS] (7680) [Static File Scanner] Scan ID 4508 received result callback 1. Result type: ML. Model type: PE model. Score: 0.0482. Threat name: NULL. Silent: 0
+[20260103-101516-694][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 ended for Scan ID 4508
+[20260103-101516-696][T][AVC] (6444) [AVS] (6444) Scan ID 4508 has completed stage 0 with 2 tasks: 0, 1
+[20260103-101516-697][T][AVC] (6444) [AVS] (6444) Scan ID 4508 has completed the pipeline scan
+[20260103-101516-699][T][AVC] (6444) [AVS] (6444) Final verdict for scan ID 4508, Error: ok, Verdict: unknown
+[20260103-101516-700][T][AVC] (6444) AVS scan completed scan id 4508
+[20260103-101516-702][T][AVC] (6444) (OEX:4508:2): Caching verdict=0 TTL=86400 ScanDepth=3 for engineId=16
+[20260103-101516-703][T][AVC] (6444) (OEX:4508:2): AVS verdict is 'unknown'
+[20260103-101516-705][T][AVC] (6444) Finished (OEX:4508:2) with final verdict = unknown
+[20260103-101518-137][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101518-507][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101518-523][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101518-336][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101518-803][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101518-340][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101518-860][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101518-946][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101518-384][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101518-338][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101518-233][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101518-356][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101518-088][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101518-584][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101518-358][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101518-272][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101518-821][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101518-361][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101518-376][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101518-366][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101518-323][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101518-750][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101518-326][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101518-197][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101518-488][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101518-267][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101518-011][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101518-402][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101518-200][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101518-251][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101518-565][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101518-415][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101518-756][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101518-194][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101518-317][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101518-154][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101518-264][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101518-228][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101518-364][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101518-391][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101518-502][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101518-445][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101518-786][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101518-880][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101518-085][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101518-443][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101518-175][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101518-625][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101518-507][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101518-725][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101518-931][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101518-263][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101518-826][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101518-131][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101518-195][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101518-868][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101518-029][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101518-689][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101518-935][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101518-610][T][AVC] (6444) AvcScanEvent: scanMode = exec, path = "C:\Windows\System32\svchost.exe", scanContextId = 4509, processUniqueID = 34617436416300, isNativeExecutable = true
+[20260103-101518-612][T][AVC] (6444) (OEX:4509:2): No engine verdicts to retrieve; will recalculate all engines... (driver:11:not found)
+[20260103-101518-613][T][AVC] (6444) (OEX:4509:2): Scan stages AVC setup: Stage 0: Static File Scanner, Malware Hash List; Stage 1: Trusted Hash, Signature Verifier;
+[20260103-101518-615][T][AVC] (6444) [AVS] (6444) Scanning buffer via OEX with scanId = 4509
+[20260103-101518-616][T][AVC] (6444) [AVS] (6444) Scan context for scanId = 4509 created successfully.
+[20260103-101518-618][T][AVC] (6444) [AVS] (6444) Scan ID 4509 timer started for 5 seconds
+[20260103-101518-619][T][AVC] (6444) [AVS] (6444) Scan ID 4509 starting pipeline scan. Total number of stages: 3
+[20260103-101518-621][T][AVC] (6444) [AVS] (6444) Scan ID 4509 is starting stage 0 with verdictors: malware-hash-list, static-file-scanner
+[20260103-101518-624][T][AVC] (13176) [AVS] (13176) Thread pool task ID 0 started for Scan ID 4509
+[20260103-101518-625][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Scanning scan ID 4509
+[20260103-101518-627][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 started for Scan ID 4509
+[20260103-101518-628][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Finished scanning scan ID 4509, scan error: ok, verdict: unknown
+[20260103-101518-630][T][AVC] (7680) [AVS] (7680) [SFS Verdictor] Scanning scan ID 4509
+[20260103-101518-635][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4509] Start scanning: C:\Windows\System32\svchost.exe
+[20260103-101518-638][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4509] C:\Windows\System32\svchost.exe	signed	
+[20260103-101518-648][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4509] Finish scanning: C:\Windows\System32\svchost.exe, final verdict: unknown
+[20260103-101518-650][T][AVC] (7680) [AVS] (7680) [Static File Scanner] Scan ID 4509 received result callback 1. Result type: ML. Model type: PE model. Score: 0.0892. Threat name: NULL. Silent: 0
+[20260103-101518-653][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 ended for Scan ID 4509
+[20260103-101518-655][T][AVC] (6444) [AVS] (6444) Scan ID 4509 has completed stage 0 with 2 tasks: 0, 1
+[20260103-101518-656][T][AVC] (6444) [AVS] (6444) Scan ID 4509 has completed the pipeline scan
+[20260103-101518-658][T][AVC] (6444) [AVS] (6444) Final verdict for scan ID 4509, Error: ok, Verdict: unknown
+[20260103-101518-659][T][AVC] (6444) AVS scan completed scan id 4509
+[20260103-101518-661][T][AVC] (6444) (OEX:4509:2): Caching verdict=0 TTL=86400 ScanDepth=3 for engineId=16
+[20260103-101518-662][T][AVC] (6444) (OEX:4509:2): AVS verdict is 'unknown'
+[20260103-101518-664][T][AVC] (6444) Finished (OEX:4509:2) with final verdict = unknown
+[20260103-101520-943][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101520-761][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101520-010][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101520-204][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101520-480][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101520-273][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101520-633][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101520-652][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101520-104][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101520-297][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101520-653][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101520-886][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101520-369][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101520-038][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101520-840][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101520-538][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101520-559][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101520-979][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101520-910][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101520-762][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101520-872][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101520-608][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101520-570][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101520-280][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101520-611][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101520-598][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101520-668][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101520-328][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101520-253][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101520-473][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101520-544][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101520-304][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101520-468][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101520-320][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101520-127][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101520-100][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101520-852][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101520-078][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101520-644][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101520-477][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101520-826][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101520-954][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101520-244][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101520-668][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101520-933][T][AVC] (6444) AvcScanEvent: scanMode = exec, path = "C:\Windows\System32\advapi32.dll", scanContextId = 4510, processUniqueID = 34617436416300, isNativeExecutable = true
+[20260103-101520-935][T][AVC] (6444) (OEX:4510:2): No engine verdicts to retrieve; will recalculate all engines... (driver:11:not found)
+[20260103-101520-936][T][AVC] (6444) (OEX:4510:2): Scan stages AVC setup: Stage 0: Static File Scanner, Malware Hash List; Stage 1: Trusted Hash, Signature Verifier;
+[20260103-101520-938][T][AVC] (6444) [AVS] (6444) Scanning buffer via OEX with scanId = 4510
+[20260103-101520-939][T][AVC] (6444) [AVS] (6444) Scan context for scanId = 4510 created successfully.
+[20260103-101520-941][T][AVC] (6444) [AVS] (6444) Scan ID 4510 timer started for 5 seconds
+[20260103-101520-942][T][AVC] (6444) [AVS] (6444) Scan ID 4510 starting pipeline scan. Total number of stages: 3
+[20260103-101520-944][T][AVC] (6444) [AVS] (6444) Scan ID 4510 is starting stage 0 with verdictors: malware-hash-list, static-file-scanner
+[20260103-101520-947][T][AVC] (13176) [AVS] (13176) Thread pool task ID 0 started for Scan ID 4510
+[20260103-101520-948][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Scanning scan ID 4510
+[20260103-101520-950][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 started for Scan ID 4510
+[20260103-101520-951][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Finished scanning scan ID 4510, scan error: ok, verdict: unknown
+[20260103-101520-953][T][AVC] (7680) [AVS] (7680) [SFS Verdictor] Scanning scan ID 4510
+[20260103-101520-958][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4510] Start scanning: C:\Windows\System32\advapi32.dll
+[20260103-101520-961][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4510] C:\Windows\System32\advapi32.dll	signed	
+[20260103-101520-971][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4510] Finish scanning: C:\Windows\System32\advapi32.dll, final verdict: unknown
+[20260103-101520-973][T][AVC] (7680) [AVS] (7680) [Static File Scanner] Scan ID 4510 received result callback 1. Result type: ML. Model type: PE model. Score: 0.1444. Threat name: NULL. Silent: 0
+[20260103-101520-976][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 ended for Scan ID 4510
+[20260103-101520-978][T][AVC] (6444) [AVS] (6444) Scan ID 4510 has completed stage 0 with 2 tasks: 0, 1
+[20260103-101520-979][T][AVC] (6444) [AVS] (6444) Scan ID 4510 has completed the pipeline scan
+[20260103-101520-981][T][AVC] (6444) [AVS] (6444) Final verdict for scan ID 4510, Error: ok, Verdict: unknown
+[20260103-101520-982][T][AVC] (6444) AVS scan completed scan id 4510
+[20260103-101520-984][T][AVC] (6444) (OEX:4510:2): Caching verdict=0 TTL=86400 ScanDepth=3 for engineId=16
+[20260103-101520-985][T][AVC] (6444) (OEX:4510:2): AVS verdict is 'unknown'
+[20260103-101520-987][T][AVC] (6444) Finished (OEX:4510:2) with final verdict = unknown
+[20260103-101522-757][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101522-597][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101522-563][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101522-186][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101522-891][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101522-169][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101522-537][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101522-244][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101522-787][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101522-017][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101522-130][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101522-372][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101522-094][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101522-014][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101522-647][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101522-405][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101522-426][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101522-887][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101522-579][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101522-289][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101522-339][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101522-692][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101522-308][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101522-272][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101522-781][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101522-746][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101522-912][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101522-760][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101522-119][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101522-564][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101522-908][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101522-164][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101522-207][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101522-888][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101522-219][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101522-618][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101522-859][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101522-894][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101522-597][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101522-351][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101522-475][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101522-042][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101522-389][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101522-893][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101522-143][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101522-401][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101522-510][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101522-246][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101522-080][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101522-134][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101522-965][T][AVC] (6444) AvcScanEvent: scanMode = exec, path = "C:\Users\testuser\AppData\Local\Temp\update_helper.dll", scanContextId = 4511, processUniqueID = 34617436416300, isNativeExecutable = true
+[20260103-101522-967][T][AVC] (6444) (OEX:4511:2): No engine verdicts to retrieve; will recalculate all engines... (driver:11:not found)
+[20260103-101522-968][T][AVC] (6444) (OEX:4511:2): Scan stages AVC setup: Stage 0: Static File Scanner, Malware Hash List; Stage 1: Trusted Hash, Signature Verifier;
+[20260103-101522-970][T][AVC] (6444) [AVS] (6444) Scanning buffer via OEX with scanId = 4511
+[20260103-101522-971][T][AVC] (6444) [AVS] (6444) Scan context for scanId = 4511 created successfully.
+[20260103-101522-973][T][AVC] (6444) [AVS] (6444) Scan ID 4511 timer started for 5 seconds
+[20260103-101522-974][T][AVC] (6444) [AVS] (6444) Scan ID 4511 starting pipeline scan. Total number of stages: 3
+[20260103-101522-976][T][AVC] (6444) [AVS] (6444) Scan ID 4511 is starting stage 0 with verdictors: malware-hash-list, static-file-scanner
+[20260103-101522-979][T][AVC] (13176) [AVS] (13176) Thread pool task ID 0 started for Scan ID 4511
+[20260103-101522-980][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Scanning scan ID 4511
+[20260103-101522-982][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 started for Scan ID 4511
+[20260103-101522-983][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Finished scanning scan ID 4511, scan error: ok, verdict: unknown
+[20260103-101522-985][T][AVC] (7680) [AVS] (7680) [SFS Verdictor] Scanning scan ID 4511
+[20260103-101522-990][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4511] Start scanning: C:\Users\testuser\AppData\Local\Temp\update_helper.dll
+[20260103-101522-993][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4511] C:\Users\testuser\AppData\Local\Temp\update_helper.dll	signed	
+[20260103-101522-998][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4511] [YARA-LOG] SFS:Backdoor.Generic.Cobalt
+[20260103-101522-1008][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4511] Finish scanning: C:\Users\testuser\AppData\Local\Temp\update_helper.dll, final verdict: malware
+[20260103-101522-1010][T][AVC] (7680) [AVS] (7680) [Static File Scanner] Scan ID 4511 received result callback 1. Result type: ML. Model type: PE model. Score: 0.94. Threat name: Backdoor:Win32.Cobalt. Silent: 0
+[20260103-101522-1013][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 ended for Scan ID 4511
+[20260103-101522-1015][T][AVC] (6444) [AVS] (6444) Scan ID 4511 has completed stage 0 with 2 tasks: 0, 1
+[20260103-101522-1016][T][AVC] (6444) [AVS] (6444) Scan ID 4511 has completed the pipeline scan
+[20260103-101522-1018][T][AVC] (6444) [AVS] (6444) Final verdict for scan ID 4511, Error: ok, Verdict: malware
+[20260103-101522-1019][T][AVC] (6444) AVS scan completed scan id 4511
+[20260103-101522-1021][T][AVC] (6444) (OEX:4511:2): Caching verdict=0 TTL=86400 ScanDepth=3 for engineId=16
+[20260103-101522-1022][T][AVC] (6444) (OEX:4511:2): AVS verdict is 'malware'
+[20260103-101522-1024][T][AVC] (6444) Finished (OEX:4511:2) with final verdict = malware
+[20260103-101524-173][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101524-398][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101524-444][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101524-571][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101524-406][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101524-087][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101524-941][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101524-124][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101524-591][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101524-934][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101524-821][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101524-707][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101524-409][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101524-708][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101524-538][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101524-157][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101524-483][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101524-521][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101524-352][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101524-932][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101524-226][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101524-648][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101524-338][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101524-160][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101524-944][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101524-457][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101524-884][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101524-954][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101524-479][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101524-333][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101524-879][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101524-174][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101524-396][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101524-962][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101524-428][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101524-073][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101524-563][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101524-864][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101524-707][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101524-094][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101524-650][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101524-539][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101524-070][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101524-397][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101524-328][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101524-217][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101524-162][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101524-004][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101524-498][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101524-893][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101524-415][T][AVC] (6444) AvcScanEvent: scanMode = exec, path = "C:\Windows\System32\advapi32.dll", scanContextId = 4512, processUniqueID = 34617436416300, isNativeExecutable = true
+[20260103-101524-417][T][AVC] (6444) (OEX:4512:2): No engine verdicts to retrieve; will recalculate all engines... (driver:11:not found)
+[20260103-101524-418][T][AVC] (6444) (OEX:4512:2): Scan stages AVC setup: Stage 0: Static File Scanner, Malware Hash List; Stage 1: Trusted Hash, Signature Verifier;
+[20260103-101524-420][T][AVC] (6444) [AVS] (6444) Scanning buffer via OEX with scanId = 4512
+[20260103-101524-421][T][AVC] (6444) [AVS] (6444) Scan context for scanId = 4512 created successfully.
+[20260103-101524-423][T][AVC] (6444) [AVS] (6444) Scan ID 4512 timer started for 5 seconds
+[20260103-101524-424][T][AVC] (6444) [AVS] (6444) Scan ID 4512 starting pipeline scan. Total number of stages: 3
+[20260103-101524-426][T][AVC] (6444) [AVS] (6444) Scan ID 4512 is starting stage 0 with verdictors: malware-hash-list, static-file-scanner
+[20260103-101524-429][T][AVC] (13176) [AVS] (13176) Thread pool task ID 0 started for Scan ID 4512
+[20260103-101524-430][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Scanning scan ID 4512
+[20260103-101524-432][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 started for Scan ID 4512
+[20260103-101524-433][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Finished scanning scan ID 4512, scan error: ok, verdict: unknown
+[20260103-101524-435][T][AVC] (7680) [AVS] (7680) [SFS Verdictor] Scanning scan ID 4512
+[20260103-101524-440][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4512] Start scanning: C:\Windows\System32\advapi32.dll
+[20260103-101524-443][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4512] C:\Windows\System32\advapi32.dll	signed	
+[20260103-101524-453][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4512] Finish scanning: C:\Windows\System32\advapi32.dll, final verdict: unknown
+[20260103-101524-455][T][AVC] (7680) [AVS] (7680) [Static File Scanner] Scan ID 4512 received result callback 1. Result type: ML. Model type: PE model. Score: 0.1146. Threat name: NULL. Silent: 0
+[20260103-101524-458][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 ended for Scan ID 4512
+[20260103-101524-460][T][AVC] (6444) [AVS] (6444) Scan ID 4512 has completed stage 0 with 2 tasks: 0, 1
+[20260103-101524-461][T][AVC] (6444) [AVS] (6444) Scan ID 4512 has completed the pipeline scan
+[20260103-101524-463][T][AVC] (6444) [AVS] (6444) Final verdict for scan ID 4512, Error: ok, Verdict: unknown
+[20260103-101524-464][T][AVC] (6444) AVS scan completed scan id 4512
+[20260103-101524-466][T][AVC] (6444) (OEX:4512:2): Caching verdict=0 TTL=86400 ScanDepth=3 for engineId=16
+[20260103-101524-467][T][AVC] (6444) (OEX:4512:2): AVS verdict is 'unknown'
+[20260103-101524-469][T][AVC] (6444) Finished (OEX:4512:2) with final verdict = unknown
+[20260103-101526-151][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101526-343][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101526-060][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101526-297][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101526-532][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101526-845][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101526-857][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101526-214][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101526-310][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101526-436][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101526-555][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101526-434][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101526-306][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101526-990][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101526-084][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101526-200][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101526-033][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101526-996][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101526-260][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101526-292][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101526-573][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101526-483][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101526-984][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101526-793][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101526-891][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101526-636][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101526-840][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101526-866][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101526-710][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101526-124][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101526-036][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101526-761][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101526-003][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101526-966][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101526-281][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101526-411][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101526-206][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101526-436][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101526-061][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101526-218][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101526-827][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101526-982][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101526-363][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101526-399][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101526-407][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101526-978][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101526-875][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101526-215][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101526-147][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101526-533][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101526-268][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101526-193][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101526-250][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101526-179][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101526-539][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101526-842][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101526-148][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101526-773][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101526-294][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101526-489][T][AVC] (6444) AvcScanEvent: scanMode = exec, path = "C:\Windows\System32\sihost.exe", scanContextId = 4513, processUniqueID = 34617436416300, isNativeExecutable = true
+[20260103-101526-491][T][AVC] (6444) (OEX:4513:2): No engine verdicts to retrieve; will recalculate all engines... (driver:11:not found)
+[20260103-101526-492][T][AVC] (6444) (OEX:4513:2): Scan stages AVC setup: Stage 0: Static File Scanner, Malware Hash List; Stage 1: Trusted Hash, Signature Verifier;
+[20260103-101526-494][T][AVC] (6444) [AVS] (6444) Scanning buffer via OEX with scanId = 4513
+[20260103-101526-495][T][AVC] (6444) [AVS] (6444) Scan context for scanId = 4513 created successfully.
+[20260103-101526-497][T][AVC] (6444) [AVS] (6444) Scan ID 4513 timer started for 5 seconds
+[20260103-101526-498][T][AVC] (6444) [AVS] (6444) Scan ID 4513 starting pipeline scan. Total number of stages: 3
+[20260103-101526-500][T][AVC] (6444) [AVS] (6444) Scan ID 4513 is starting stage 0 with verdictors: malware-hash-list, static-file-scanner
+[20260103-101526-503][T][AVC] (13176) [AVS] (13176) Thread pool task ID 0 started for Scan ID 4513
+[20260103-101526-504][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Scanning scan ID 4513
+[20260103-101526-506][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 started for Scan ID 4513
+[20260103-101526-507][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Finished scanning scan ID 4513, scan error: ok, verdict: unknown
+[20260103-101526-509][T][AVC] (7680) [AVS] (7680) [SFS Verdictor] Scanning scan ID 4513
+[20260103-101526-514][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4513] Start scanning: C:\Windows\System32\sihost.exe
+[20260103-101526-517][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4513] C:\Windows\System32\sihost.exe	signed	
+[20260103-101526-527][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4513] Finish scanning: C:\Windows\System32\sihost.exe, final verdict: unknown
+[20260103-101526-529][T][AVC] (7680) [AVS] (7680) [Static File Scanner] Scan ID 4513 received result callback 1. Result type: ML. Model type: PE model. Score: 0.0297. Threat name: NULL. Silent: 0
+[20260103-101526-532][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 ended for Scan ID 4513
+[20260103-101526-534][T][AVC] (6444) [AVS] (6444) Scan ID 4513 has completed stage 0 with 2 tasks: 0, 1
+[20260103-101526-535][T][AVC] (6444) [AVS] (6444) Scan ID 4513 has completed the pipeline scan
+[20260103-101526-537][T][AVC] (6444) [AVS] (6444) Final verdict for scan ID 4513, Error: ok, Verdict: unknown
+[20260103-101526-538][T][AVC] (6444) AVS scan completed scan id 4513
+[20260103-101526-540][T][AVC] (6444) (OEX:4513:2): Caching verdict=0 TTL=86400 ScanDepth=3 for engineId=16
+[20260103-101526-541][T][AVC] (6444) (OEX:4513:2): AVS verdict is 'unknown'
+[20260103-101526-543][T][AVC] (6444) Finished (OEX:4513:2) with final verdict = unknown
+[20260103-101528-982][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101528-156][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101528-771][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101528-212][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101528-337][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101528-630][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101528-443][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101528-359][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101528-790][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101528-743][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101528-013][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101528-933][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101528-883][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101528-153][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101528-131][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101528-297][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101528-273][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101528-456][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101528-501][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101528-422][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101528-169][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101528-837][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101528-883][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101528-594][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101528-680][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101528-488][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101528-621][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101528-953][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101528-764][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101528-401][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101528-223][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101528-777][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101528-740][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101528-249][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101528-717][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101528-522][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101528-645][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101528-911][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101528-695][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101528-389][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101528-215][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101528-646][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101528-850][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101528-241][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101528-677][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101528-075][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101528-297][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101528-700][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101528-203][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101528-383][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101528-842][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101528-551][T][AVC] (6444) AvcScanEvent: scanMode = exec, path = "C:\Windows\System32\spoolsv.exe", scanContextId = 4514, processUniqueID = 34617436416300, isNativeExecutable = true
+[20260103-101528-553][T][AVC] (6444) (OEX:4514:2): No engine verdicts to retrieve; will recalculate all engines... (driver:11:not found)
+[20260103-101528-554][T][AVC] (6444) (OEX:4514:2): Scan stages AVC setup: Stage 0: Static File Scanner, Malware Hash List; Stage 1: Trusted Hash, Signature Verifier;
+[20260103-101528-556][T][AVC] (6444) [AVS] (6444) Scanning buffer via OEX with scanId = 4514
+[20260103-101528-557][T][AVC] (6444) [AVS] (6444) Scan context for scanId = 4514 created successfully.
+[20260103-101528-559][T][AVC] (6444) [AVS] (6444) Scan ID 4514 timer started for 5 seconds
+[20260103-101528-560][T][AVC] (6444) [AVS] (6444) Scan ID 4514 starting pipeline scan. Total number of stages: 3
+[20260103-101528-562][T][AVC] (6444) [AVS] (6444) Scan ID 4514 is starting stage 0 with verdictors: malware-hash-list, static-file-scanner
+[20260103-101528-565][T][AVC] (13176) [AVS] (13176) Thread pool task ID 0 started for Scan ID 4514
+[20260103-101528-566][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Scanning scan ID 4514
+[20260103-101528-568][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 started for Scan ID 4514
+[20260103-101528-569][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Finished scanning scan ID 4514, scan error: ok, verdict: unknown
+[20260103-101528-571][T][AVC] (7680) [AVS] (7680) [SFS Verdictor] Scanning scan ID 4514
+[20260103-101528-576][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4514] Start scanning: C:\Windows\System32\spoolsv.exe
+[20260103-101528-579][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4514] C:\Windows\System32\spoolsv.exe	signed	
+[20260103-101528-589][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4514] Finish scanning: C:\Windows\System32\spoolsv.exe, final verdict: unknown
+[20260103-101528-591][T][AVC] (7680) [AVS] (7680) [Static File Scanner] Scan ID 4514 received result callback 1. Result type: ML. Model type: PE model. Score: 0.1092. Threat name: NULL. Silent: 0
+[20260103-101528-594][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 ended for Scan ID 4514
+[20260103-101528-596][T][AVC] (6444) [AVS] (6444) Scan ID 4514 has completed stage 0 with 2 tasks: 0, 1
+[20260103-101528-597][T][AVC] (6444) [AVS] (6444) Scan ID 4514 has completed the pipeline scan
+[20260103-101528-599][T][AVC] (6444) [AVS] (6444) Final verdict for scan ID 4514, Error: ok, Verdict: unknown
+[20260103-101528-600][T][AVC] (6444) AVS scan completed scan id 4514
+[20260103-101528-602][T][AVC] (6444) (OEX:4514:2): Caching verdict=0 TTL=86400 ScanDepth=3 for engineId=16
+[20260103-101528-603][T][AVC] (6444) (OEX:4514:2): AVS verdict is 'unknown'
+[20260103-101528-605][T][AVC] (6444) Finished (OEX:4514:2) with final verdict = unknown
+[20260103-101530-152][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101530-460][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101530-732][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101530-427][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101530-555][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101530-482][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101530-172][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101530-549][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101530-383][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101530-445][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101530-963][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101530-476][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101530-086][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101530-387][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101530-465][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101530-317][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101530-134][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101530-675][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101530-665][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101530-435][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101530-026][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101530-556][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101530-986][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101530-058][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101530-457][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101530-007][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101530-457][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101530-791][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101530-164][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101530-403][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101530-892][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101530-430][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101530-533][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101530-038][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101530-619][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101530-685][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101530-425][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101530-389][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101530-802][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101530-105][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101530-323][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101530-561][T][AVC] (6444) AvcScanEvent: scanMode = exec, path = "C:\Windows\System32\spoolsv.exe", scanContextId = 4515, processUniqueID = 34617436416300, isNativeExecutable = true
+[20260103-101530-563][T][AVC] (6444) (OEX:4515:2): No engine verdicts to retrieve; will recalculate all engines... (driver:11:not found)
+[20260103-101530-564][T][AVC] (6444) (OEX:4515:2): Scan stages AVC setup: Stage 0: Static File Scanner, Malware Hash List; Stage 1: Trusted Hash, Signature Verifier;
+[20260103-101530-566][T][AVC] (6444) [AVS] (6444) Scanning buffer via OEX with scanId = 4515
+[20260103-101530-567][T][AVC] (6444) [AVS] (6444) Scan context for scanId = 4515 created successfully.
+[20260103-101530-569][T][AVC] (6444) [AVS] (6444) Scan ID 4515 timer started for 5 seconds
+[20260103-101530-570][T][AVC] (6444) [AVS] (6444) Scan ID 4515 starting pipeline scan. Total number of stages: 3
+[20260103-101530-572][T][AVC] (6444) [AVS] (6444) Scan ID 4515 is starting stage 0 with verdictors: malware-hash-list, static-file-scanner
+[20260103-101530-575][T][AVC] (13176) [AVS] (13176) Thread pool task ID 0 started for Scan ID 4515
+[20260103-101530-576][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Scanning scan ID 4515
+[20260103-101530-578][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 started for Scan ID 4515
+[20260103-101530-579][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Finished scanning scan ID 4515, scan error: ok, verdict: unknown
+[20260103-101530-581][T][AVC] (7680) [AVS] (7680) [SFS Verdictor] Scanning scan ID 4515
+[20260103-101530-586][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4515] Start scanning: C:\Windows\System32\spoolsv.exe
+[20260103-101530-589][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4515] C:\Windows\System32\spoolsv.exe	signed	
+[20260103-101530-599][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4515] Finish scanning: C:\Windows\System32\spoolsv.exe, final verdict: unknown
+[20260103-101530-601][T][AVC] (7680) [AVS] (7680) [Static File Scanner] Scan ID 4515 received result callback 1. Result type: ML. Model type: PE model. Score: 0.0769. Threat name: NULL. Silent: 0
+[20260103-101530-604][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 ended for Scan ID 4515
+[20260103-101530-606][T][AVC] (6444) [AVS] (6444) Scan ID 4515 has completed stage 0 with 2 tasks: 0, 1
+[20260103-101530-607][T][AVC] (6444) [AVS] (6444) Scan ID 4515 has completed the pipeline scan
+[20260103-101530-609][T][AVC] (6444) [AVS] (6444) Final verdict for scan ID 4515, Error: ok, Verdict: unknown
+[20260103-101530-610][T][AVC] (6444) AVS scan completed scan id 4515
+[20260103-101530-612][T][AVC] (6444) (OEX:4515:2): Caching verdict=0 TTL=86400 ScanDepth=3 for engineId=16
+[20260103-101530-613][T][AVC] (6444) (OEX:4515:2): AVS verdict is 'unknown'
+[20260103-101530-615][T][AVC] (6444) Finished (OEX:4515:2) with final verdict = unknown
+[20260103-101532-303][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101532-560][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101532-344][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101532-829][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101532-269][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101532-363][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101532-802][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101532-510][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101532-942][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101532-899][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101532-085][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101532-015][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101532-772][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101532-895][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101532-297][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101532-610][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101532-566][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101532-211][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101532-218][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101532-566][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101532-638][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101532-630][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101532-145][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101532-615][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101532-821][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101532-593][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101532-652][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101532-069][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101532-263][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101532-764][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101532-248][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101532-730][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101532-297][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101532-938][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101532-475][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101532-507][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101532-331][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101532-342][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101532-012][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101532-136][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101532-221][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101532-875][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101532-124][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101532-735][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101532-702][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101532-772][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101532-594][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101532-061][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101532-777][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101532-746][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101532-306][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101532-044][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101532-432][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101532-955][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101532-858][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101532-245][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101532-516][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101532-482][T][AVC] (6444) AvcScanEvent: scanMode = exec, path = "C:\Windows\System32\audiodg.exe", scanContextId = 4516, processUniqueID = 34617436416300, isNativeExecutable = true
+[20260103-101532-484][T][AVC] (6444) (OEX:4516:2): No engine verdicts to retrieve; will recalculate all engines... (driver:11:not found)
+[20260103-101532-485][T][AVC] (6444) (OEX:4516:2): Scan stages AVC setup: Stage 0: Static File Scanner, Malware Hash List; Stage 1: Trusted Hash, Signature Verifier;
+[20260103-101532-487][T][AVC] (6444) [AVS] (6444) Scanning buffer via OEX with scanId = 4516
+[20260103-101532-488][T][AVC] (6444) [AVS] (6444) Scan context for scanId = 4516 created successfully.
+[20260103-101532-490][T][AVC] (6444) [AVS] (6444) Scan ID 4516 timer started for 5 seconds
+[20260103-101532-491][T][AVC] (6444) [AVS] (6444) Scan ID 4516 starting pipeline scan. Total number of stages: 3
+[20260103-101532-493][T][AVC] (6444) [AVS] (6444) Scan ID 4516 is starting stage 0 with verdictors: malware-hash-list, static-file-scanner
+[20260103-101532-496][T][AVC] (13176) [AVS] (13176) Thread pool task ID 0 started for Scan ID 4516
+[20260103-101532-497][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Scanning scan ID 4516
+[20260103-101532-499][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 started for Scan ID 4516
+[20260103-101532-500][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Finished scanning scan ID 4516, scan error: ok, verdict: unknown
+[20260103-101532-502][T][AVC] (7680) [AVS] (7680) [SFS Verdictor] Scanning scan ID 4516
+[20260103-101532-507][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4516] Start scanning: C:\Windows\System32\audiodg.exe
+[20260103-101532-510][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4516] C:\Windows\System32\audiodg.exe	signed	
+[20260103-101532-520][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4516] Finish scanning: C:\Windows\System32\audiodg.exe, final verdict: unknown
+[20260103-101532-522][T][AVC] (7680) [AVS] (7680) [Static File Scanner] Scan ID 4516 received result callback 1. Result type: ML. Model type: PE model. Score: 0.1186. Threat name: NULL. Silent: 0
+[20260103-101532-525][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 ended for Scan ID 4516
+[20260103-101532-527][T][AVC] (6444) [AVS] (6444) Scan ID 4516 has completed stage 0 with 2 tasks: 0, 1
+[20260103-101532-528][T][AVC] (6444) [AVS] (6444) Scan ID 4516 has completed the pipeline scan
+[20260103-101532-530][T][AVC] (6444) [AVS] (6444) Final verdict for scan ID 4516, Error: ok, Verdict: unknown
+[20260103-101532-531][T][AVC] (6444) AVS scan completed scan id 4516
+[20260103-101532-533][T][AVC] (6444) (OEX:4516:2): Caching verdict=0 TTL=86400 ScanDepth=3 for engineId=16
+[20260103-101532-534][T][AVC] (6444) (OEX:4516:2): AVS verdict is 'unknown'
+[20260103-101532-536][T][AVC] (6444) Finished (OEX:4516:2) with final verdict = unknown
+[20260103-101534-181][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101534-861][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101534-171][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101534-993][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101534-068][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101534-850][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101534-753][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101534-952][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101534-630][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101534-198][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101534-251][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101534-883][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101534-009][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101534-880][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101534-842][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101534-658][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101534-696][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101534-976][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101534-762][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101534-498][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101534-709][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101534-292][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101534-619][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101534-852][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101534-393][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101534-536][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101534-105][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101534-892][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101534-852][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101534-770][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101534-696][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101534-677][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101534-337][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101534-001][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101534-198][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101534-695][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101534-861][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101534-035][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101534-440][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101534-782][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101534-721][T][AVC] (6444) AvcScanEvent: scanMode = exec, path = "C:\Windows\System32\notepad.exe", scanContextId = 4517, processUniqueID = 34617436416300, isNativeExecutable = true
+[20260103-101534-723][T][AVC] (6444) (OEX:4517:2): No engine verdicts to retrieve; will recalculate all engines... (driver:11:not found)
+[20260103-101534-724][T][AVC] (6444) (OEX:4517:2): Scan stages AVC setup: Stage 0: Static File Scanner, Malware Hash List; Stage 1: Trusted Hash, Signature Verifier;
+[20260103-101534-726][T][AVC] (6444) [AVS] (6444) Scanning buffer via OEX with scanId = 4517
+[20260103-101534-727][T][AVC] (6444) [AVS] (6444) Scan context for scanId = 4517 created successfully.
+[20260103-101534-729][T][AVC] (6444) [AVS] (6444) Scan ID 4517 timer started for 5 seconds
+[20260103-101534-730][T][AVC] (6444) [AVS] (6444) Scan ID 4517 starting pipeline scan. Total number of stages: 3
+[20260103-101534-732][T][AVC] (6444) [AVS] (6444) Scan ID 4517 is starting stage 0 with verdictors: malware-hash-list, static-file-scanner
+[20260103-101534-735][T][AVC] (13176) [AVS] (13176) Thread pool task ID 0 started for Scan ID 4517
+[20260103-101534-736][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Scanning scan ID 4517
+[20260103-101534-738][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 started for Scan ID 4517
+[20260103-101534-739][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Finished scanning scan ID 4517, scan error: ok, verdict: unknown
+[20260103-101534-741][T][AVC] (7680) [AVS] (7680) [SFS Verdictor] Scanning scan ID 4517
+[20260103-101534-746][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4517] Start scanning: C:\Windows\System32\notepad.exe
+[20260103-101534-749][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4517] C:\Windows\System32\notepad.exe	signed	
+[20260103-101534-759][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4517] Finish scanning: C:\Windows\System32\notepad.exe, final verdict: unknown
+[20260103-101534-761][T][AVC] (7680) [AVS] (7680) [Static File Scanner] Scan ID 4517 received result callback 1. Result type: ML. Model type: PE model. Score: 0.0838. Threat name: NULL. Silent: 0
+[20260103-101534-764][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 ended for Scan ID 4517
+[20260103-101534-766][T][AVC] (6444) [AVS] (6444) Scan ID 4517 has completed stage 0 with 2 tasks: 0, 1
+[20260103-101534-767][T][AVC] (6444) [AVS] (6444) Scan ID 4517 has completed the pipeline scan
+[20260103-101534-769][T][AVC] (6444) [AVS] (6444) Final verdict for scan ID 4517, Error: ok, Verdict: unknown
+[20260103-101534-770][T][AVC] (6444) AVS scan completed scan id 4517
+[20260103-101534-772][T][AVC] (6444) (OEX:4517:2): Caching verdict=0 TTL=86400 ScanDepth=3 for engineId=16
+[20260103-101534-773][T][AVC] (6444) (OEX:4517:2): AVS verdict is 'unknown'
+[20260103-101534-775][T][AVC] (6444) Finished (OEX:4517:2) with final verdict = unknown
+[20260103-101536-005][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101536-504][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101536-105][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101536-857][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101536-903][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101536-694][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101536-459][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101536-512][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101536-880][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101536-628][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101536-119][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101536-395][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101536-634][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101536-135][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101536-268][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101536-361][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101536-522][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101536-400][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101536-851][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101536-402][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101536-358][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101536-605][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101536-107][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101536-999][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101536-869][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101536-842][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101536-110][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101536-469][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101536-855][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101536-090][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101536-985][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101536-047][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101536-326][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101536-374][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101536-557][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101536-385][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101536-003][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101536-733][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101536-071][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101536-645][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101536-463][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101536-829][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101536-541][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101536-932][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101536-327][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101536-649][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101536-057][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101536-651][T][AVC] (6444) AvcScanEvent: scanMode = exec, path = "C:\Windows\System32\RuntimeBroker.exe", scanContextId = 4518, processUniqueID = 34617436416300, isNativeExecutable = true
+[20260103-101536-653][T][AVC] (6444) (OEX:4518:2): No engine verdicts to retrieve; will recalculate all engines... (driver:11:not found)
+[20260103-101536-654][T][AVC] (6444) (OEX:4518:2): Scan stages AVC setup: Stage 0: Static File Scanner, Malware Hash List; Stage 1: Trusted Hash, Signature Verifier;
+[20260103-101536-656][T][AVC] (6444) [AVS] (6444) Scanning buffer via OEX with scanId = 4518
+[20260103-101536-657][T][AVC] (6444) [AVS] (6444) Scan context for scanId = 4518 created successfully.
+[20260103-101536-659][T][AVC] (6444) [AVS] (6444) Scan ID 4518 timer started for 5 seconds
+[20260103-101536-660][T][AVC] (6444) [AVS] (6444) Scan ID 4518 starting pipeline scan. Total number of stages: 3
+[20260103-101536-662][T][AVC] (6444) [AVS] (6444) Scan ID 4518 is starting stage 0 with verdictors: malware-hash-list, static-file-scanner
+[20260103-101536-665][T][AVC] (13176) [AVS] (13176) Thread pool task ID 0 started for Scan ID 4518
+[20260103-101536-666][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Scanning scan ID 4518
+[20260103-101536-668][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 started for Scan ID 4518
+[20260103-101536-669][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Finished scanning scan ID 4518, scan error: ok, verdict: unknown
+[20260103-101536-671][T][AVC] (7680) [AVS] (7680) [SFS Verdictor] Scanning scan ID 4518
+[20260103-101536-676][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4518] Start scanning: C:\Windows\System32\RuntimeBroker.exe
+[20260103-101536-679][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4518] C:\Windows\System32\RuntimeBroker.exe	signed	
+[20260103-101536-689][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4518] Finish scanning: C:\Windows\System32\RuntimeBroker.exe, final verdict: unknown
+[20260103-101536-691][T][AVC] (7680) [AVS] (7680) [Static File Scanner] Scan ID 4518 received result callback 1. Result type: ML. Model type: PE model. Score: 0.0203. Threat name: NULL. Silent: 0
+[20260103-101536-694][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 ended for Scan ID 4518
+[20260103-101536-696][T][AVC] (6444) [AVS] (6444) Scan ID 4518 has completed stage 0 with 2 tasks: 0, 1
+[20260103-101536-697][T][AVC] (6444) [AVS] (6444) Scan ID 4518 has completed the pipeline scan
+[20260103-101536-699][T][AVC] (6444) [AVS] (6444) Final verdict for scan ID 4518, Error: ok, Verdict: unknown
+[20260103-101536-700][T][AVC] (6444) AVS scan completed scan id 4518
+[20260103-101536-702][T][AVC] (6444) (OEX:4518:2): Caching verdict=0 TTL=86400 ScanDepth=3 for engineId=16
+[20260103-101536-703][T][AVC] (6444) (OEX:4518:2): AVS verdict is 'unknown'
+[20260103-101536-705][T][AVC] (6444) Finished (OEX:4518:2) with final verdict = unknown
+[20260103-101538-087][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101538-557][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101538-075][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101538-643][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101538-276][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101538-160][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101538-190][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101538-074][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101538-752][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101538-118][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101538-929][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101538-182][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101538-485][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101538-664][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101538-777][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101538-426][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101538-260][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101538-308][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101538-707][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101538-741][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101538-625][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101538-723][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101538-569][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101538-003][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101538-651][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101538-968][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101538-877][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101538-312][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101538-382][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101538-047][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101538-123][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101538-543][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101538-916][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101538-527][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101538-767][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101538-129][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101538-853][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101538-584][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101538-404][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101538-309][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101538-289][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101538-367][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101538-134][T][AVC] (6444) AvcScanEvent: scanMode = exec, path = "C:\Windows\System32\user32.dll", scanContextId = 4519, processUniqueID = 34617436416300, isNativeExecutable = true
+[20260103-101538-136][T][AVC] (6444) (OEX:4519:2): No engine verdicts to retrieve; will recalculate all engines... (driver:11:not found)
+[20260103-101538-137][T][AVC] (6444) (OEX:4519:2): Scan stages AVC setup: Stage 0: Static File Scanner, Malware Hash List; Stage 1: Trusted Hash, Signature Verifier;
+[20260103-101538-139][T][AVC] (6444) [AVS] (6444) Scanning buffer via OEX with scanId = 4519
+[20260103-101538-140][T][AVC] (6444) [AVS] (6444) Scan context for scanId = 4519 created successfully.
+[20260103-101538-142][T][AVC] (6444) [AVS] (6444) Scan ID 4519 timer started for 5 seconds
+[20260103-101538-143][T][AVC] (6444) [AVS] (6444) Scan ID 4519 starting pipeline scan. Total number of stages: 3
+[20260103-101538-145][T][AVC] (6444) [AVS] (6444) Scan ID 4519 is starting stage 0 with verdictors: malware-hash-list, static-file-scanner
+[20260103-101538-148][T][AVC] (13176) [AVS] (13176) Thread pool task ID 0 started for Scan ID 4519
+[20260103-101538-149][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Scanning scan ID 4519
+[20260103-101538-151][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 started for Scan ID 4519
+[20260103-101538-152][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Finished scanning scan ID 4519, scan error: ok, verdict: unknown
+[20260103-101538-154][T][AVC] (7680) [AVS] (7680) [SFS Verdictor] Scanning scan ID 4519
+[20260103-101538-159][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4519] Start scanning: C:\Windows\System32\user32.dll
+[20260103-101538-162][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4519] C:\Windows\System32\user32.dll	signed	
+[20260103-101538-172][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4519] Finish scanning: C:\Windows\System32\user32.dll, final verdict: unknown
+[20260103-101538-174][T][AVC] (7680) [AVS] (7680) [Static File Scanner] Scan ID 4519 received result callback 1. Result type: ML. Model type: PE model. Score: 0.1173. Threat name: NULL. Silent: 0
+[20260103-101538-177][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 ended for Scan ID 4519
+[20260103-101538-179][T][AVC] (6444) [AVS] (6444) Scan ID 4519 has completed stage 0 with 2 tasks: 0, 1
+[20260103-101538-180][T][AVC] (6444) [AVS] (6444) Scan ID 4519 has completed the pipeline scan
+[20260103-101538-182][T][AVC] (6444) [AVS] (6444) Final verdict for scan ID 4519, Error: ok, Verdict: unknown
+[20260103-101538-183][T][AVC] (6444) AVS scan completed scan id 4519
+[20260103-101538-185][T][AVC] (6444) (OEX:4519:2): Caching verdict=0 TTL=86400 ScanDepth=3 for engineId=16
+[20260103-101538-186][T][AVC] (6444) (OEX:4519:2): AVS verdict is 'unknown'
+[20260103-101538-188][T][AVC] (6444) Finished (OEX:4519:2) with final verdict = unknown
+[20260103-101540-116][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101540-332][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101540-663][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101540-490][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101540-858][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101540-107][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101540-005][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101540-408][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101540-825][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101540-928][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101540-123][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101540-533][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101540-374][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101540-325][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101540-014][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101540-433][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101540-568][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101540-631][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101540-163][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101540-817][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101540-946][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101540-061][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101540-724][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101540-699][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101540-696][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101540-247][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101540-885][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101540-188][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101540-919][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101540-760][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101540-693][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101540-415][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101540-605][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101540-307][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101540-806][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101540-309][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101540-909][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101540-129][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101540-830][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101540-936][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101540-004][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101540-153][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101540-995][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101540-033][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101540-177][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101540-607][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101540-333][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101540-306][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101540-803][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101540-500][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101540-800][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101540-725][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101540-334][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101540-971][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101540-727][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101540-674][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101540-314][T][AVC] (6444) AvcScanEvent: scanMode = exec, path = "C:\Windows\System32\dwm.exe", scanContextId = 4520, processUniqueID = 34617436416300, isNativeExecutable = true
+[20260103-101540-316][T][AVC] (6444) (OEX:4520:2): No engine verdicts to retrieve; will recalculate all engines... (driver:11:not found)
+[20260103-101540-317][T][AVC] (6444) (OEX:4520:2): Scan stages AVC setup: Stage 0: Static File Scanner, Malware Hash List; Stage 1: Trusted Hash, Signature Verifier;
+[20260103-101540-319][T][AVC] (6444) [AVS] (6444) Scanning buffer via OEX with scanId = 4520
+[20260103-101540-320][T][AVC] (6444) [AVS] (6444) Scan context for scanId = 4520 created successfully.
+[20260103-101540-322][T][AVC] (6444) [AVS] (6444) Scan ID 4520 timer started for 5 seconds
+[20260103-101540-323][T][AVC] (6444) [AVS] (6444) Scan ID 4520 starting pipeline scan. Total number of stages: 3
+[20260103-101540-325][T][AVC] (6444) [AVS] (6444) Scan ID 4520 is starting stage 0 with verdictors: malware-hash-list, static-file-scanner
+[20260103-101540-328][T][AVC] (13176) [AVS] (13176) Thread pool task ID 0 started for Scan ID 4520
+[20260103-101540-329][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Scanning scan ID 4520
+[20260103-101540-331][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 started for Scan ID 4520
+[20260103-101540-332][T][AVC] (13176) [AVS] (13176) [Malware Hash List Verdictor] Finished scanning scan ID 4520, scan error: ok, verdict: unknown
+[20260103-101540-334][T][AVC] (7680) [AVS] (7680) [SFS Verdictor] Scanning scan ID 4520
+[20260103-101540-339][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4520] Start scanning: C:\Windows\System32\dwm.exe
+[20260103-101540-342][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4520] C:\Windows\System32\dwm.exe	signed	
+[20260103-101540-352][T][AVC] (7680) [AVS] (7680) [SFS] [scan-id:4520] Finish scanning: C:\Windows\System32\dwm.exe, final verdict: unknown
+[20260103-101540-354][T][AVC] (7680) [AVS] (7680) [Static File Scanner] Scan ID 4520 received result callback 1. Result type: ML. Model type: PE model. Score: 0.0288. Threat name: NULL. Silent: 0
+[20260103-101540-357][T][AVC] (7680) [AVS] (7680) Thread pool task ID 1 ended for Scan ID 4520
+[20260103-101540-359][T][AVC] (6444) [AVS] (6444) Scan ID 4520 has completed stage 0 with 2 tasks: 0, 1
+[20260103-101540-360][T][AVC] (6444) [AVS] (6444) Scan ID 4520 has completed the pipeline scan
+[20260103-101540-362][T][AVC] (6444) [AVS] (6444) Final verdict for scan ID 4520, Error: ok, Verdict: unknown
+[20260103-101540-363][T][AVC] (6444) AVS scan completed scan id 4520
+[20260103-101540-365][T][AVC] (6444) (OEX:4520:2): Caching verdict=0 TTL=86400 ScanDepth=3 for engineId=16
+[20260103-101540-366][T][AVC] (6444) (OEX:4520:2): AVS verdict is 'unknown'
+[20260103-101540-368][T][AVC] (6444) Finished (OEX:4520:2) with final verdict = unknown
+[20260103-101542-150][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-416][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-568][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-875][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-266][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-350][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-550][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-187][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-835][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-866][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-774][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-739][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-627][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-991][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-111][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-595][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-520][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-597][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-574][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-123][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-374][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-810][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-767][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-583][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-214][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-652][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-916][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-538][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-872][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-774][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-224][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-117][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-609][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-311][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-486][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-327][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-090][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-663][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-940][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-424][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-802][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-205][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-685][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-327][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-572][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-700][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-429][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-970][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-553][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-834][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-672][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-610][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-708][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-240][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-629][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-405][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-787][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-817][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-265][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-226][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-320][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-819][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-604][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-129][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-091][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-059][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-538][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-250][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-420][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-467][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-881][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-203][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-316][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-861][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-215][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-275][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-158][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-488][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-176][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-452][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-128][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-127][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-430][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-182][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-097][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-322][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-159][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-143][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-334][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-917][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-706][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-659][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-828][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-810][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-059][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-840][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-295][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-998][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-295][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-172][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-240][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-280][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-918][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-308][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-055][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-829][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-370][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-607][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-833][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-101][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-053][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-285][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-255][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-705][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-761][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-885][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-135][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-466][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-026][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-321][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-947][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-415][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-263][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-572][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-870][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-876][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-957][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-297][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-011][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-232][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-655][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-064][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-204][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-274][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-790][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-676][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-790][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-828][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-294][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-124][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-333][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-074][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-732][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-419][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-377][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-895][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-226][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-809][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-412][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-727][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-570][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-109][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-957][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-228][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-389][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-538][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-502][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-340][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-209][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-664][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-995][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-818][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-005][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-487][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-933][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-292][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-839][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-630][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-834][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-862][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-879][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-775][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-686][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-285][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-123][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-383][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-238][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-940][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-272][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-178][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-679][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-662][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-555][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-734][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-194][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-127][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-658][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-916][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-343][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-158][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-490][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-588][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-122][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-877][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-072][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-421][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-318][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-076][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-603][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-198][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-758][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-345][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-950][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-109][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-425][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-514][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-313][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-549][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-218][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-032][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-059][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-744][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-871][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-785][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-679][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-405][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-980][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-971][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-950][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-537][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-923][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-201][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-017][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-737][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-556][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-231][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-385][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-038][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-982][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-673][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-420][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-242][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-548][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-398][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-484][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-504][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-446][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-981][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-323][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-284][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-747][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-006][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-475][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-550][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-072][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-512][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-867][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-021][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-223][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-334][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-553][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-028][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-770][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-038][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-710][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-833][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-470][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-010][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-136][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-736][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-231][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-209][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-610][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-884][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-534][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-057][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-508][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-028][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-321][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-038][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-068][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-057][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-325][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-070][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-729][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-056][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-506][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-491][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-910][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-406][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-010][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-855][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-028][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-413][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-150][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-841][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-716][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-590][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-205][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-620][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-604][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-894][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-287][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-879][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-724][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-174][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-707][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-375][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-615][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-680][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-099][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-404][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-651][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-419][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-761][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-230][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-375][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-716][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-375][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-266][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-811][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-289][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-629][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-533][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-883][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-568][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-142][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-793][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-004][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-964][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-006][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-123][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-870][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-538][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-733][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-542][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-910][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-650][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-302][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-551][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-960][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-120][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-296][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-668][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-533][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-857][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-878][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-560][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-020][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-365][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-506][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-235][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-327][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-143][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-539][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-549][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-072][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-694][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-818][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-463][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-524][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-463][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-088][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-151][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-183][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-530][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-063][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-834][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-213][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-455][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-943][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-482][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-248][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-853][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-004][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-649][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-915][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-541][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-248][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-718][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-244][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-982][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-557][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-605][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-958][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-449][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-538][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-362][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-874][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-206][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-897][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-975][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-393][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-137][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-147][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-469][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-670][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-089][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-740][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-601][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-143][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-560][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-166][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-379][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-214][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-115][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-178][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-913][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-710][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-800][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-237][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-536][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-474][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-854][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-486][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-586][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-696][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-198][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-742][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-689][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-109][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-042][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-701][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-233][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-701][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-423][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-898][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-328][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-049][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-057][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-406][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-368][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-059][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-924][T][procview] STAT: running_processes_count = 162, cached = 220
+[20260103-101542-884][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-626][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-930][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-497][T][MEM] Memory pool stats: used = 128MB, free = 384MB
+[20260103-101542-824][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
+[20260103-101542-618][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-742][T][CFG] Policy update received, version = 2026.01.03.001
+[20260103-101542-978][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-074][T][NET] License validation successful, expires = 2027-01-15
+[20260103-101542-632][T][cps] Service heartbeat: status = running, uptime = 3847s
+[20260103-101542-482][T][wdm] Watchdog check passed, response time = 12ms
+[20260103-101542-388][T][DB] Cache hit for hash: 3f2a8b9c1d4e5f6a, verdict = clean
